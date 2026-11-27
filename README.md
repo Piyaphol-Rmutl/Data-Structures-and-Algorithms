@@ -114,28 +114,28 @@
 
 ## เอกสารการสอนและใบงานรายสัปดาห์
 
-ไฟล์ทั้งหมดอยู่ในโฟลเดอร์ [`weeks/`](weeks) แยกตามสัปดาห์
+ไฟล์ทั้งหมดอยู่ในโฟลเดอร์ [`weeks/`](weeks) แยกตามสัปดาห์ ใบบันทึกผลปฏิบัติเป็นไฟล์ Word ให้ดาวน์โหลดไปบันทึกผลการทดลองตามใบงานของสัปดาห์นั้น
 
-| สัปดาห์ | หัวข้อ | เอกสารประกอบการสอน | ใบงาน |
-|:---:|---|:---:|:---:|
-| 1 | 1.1 การแทนข้อมูลและแนวคิดโครงสร้างข้อมูล | [📄 PDF](weeks/week-01/ENGCE124_W01_lecture.pdf) | [🧪 ใบงานที่ 1](weeks/week-01/ENGCE124_Lab01.pdf) |
-| 2 | 1.2 การวิเคราะห์ขั้นตอนวิธี | [📄 PDF](weeks/week-02/ENGCE124_W02_lecture.pdf) | [🧪 ใบงานที่ 2](weeks/week-02/ENGCE124_Lab02.pdf) |
-| 3 | 2.1 แถวลำดับและการออกแบบข้อมูล | [📄 PDF](weeks/week-03/ENGCE124_W03_lecture.pdf) | [🧪 ใบงานที่ 3](weeks/week-03/ENGCE124_Lab03.pdf) |
-| 4 | 2.2 รายการโยง | [📄 PDF](weeks/week-04/ENGCE124_W04_lecture.pdf) | [🧪 ใบงานที่ 4](weeks/week-04/ENGCE124_Lab04.pdf) |
-| 5 | 2.3 กองซ้อน | [📄 PDF](weeks/week-05/ENGCE124_W05_lecture.pdf) | [🧪 ใบงานที่ 5](weeks/week-05/ENGCE124_Lab05.pdf) |
-| 6 | 2.4 แถวคอย | [📄 PDF](weeks/week-06/ENGCE124_W06_lecture.pdf) | [🧪 ใบงานที่ 6](weeks/week-06/ENGCE124_Lab06.pdf) |
-| 7 | 3.1 ต้นไม้และต้นไม้ทวิภาค | [📄 PDF](weeks/week-07/ENGCE124_W07_lecture.pdf) | [🧪 ใบงานที่ 7](weeks/week-07/ENGCE124_Lab07.pdf) |
-| 8 | 3.2 ต้นไม้ค้นหาแบบทวิภาค | [📄 PDF](weeks/week-08/ENGCE124_W08_lecture.pdf) | [🧪 ใบงานที่ 8](weeks/week-08/ENGCE124_Lab08.pdf) |
-| 9 | **สอบกลางภาค** | [📄 PDF](weeks/week-09/ENGCE124_W09_lecture.pdf) | — |
-| 10 | 3.3 ต้นไม้สมดุล AVL และ B-Tree | [📄 PDF](weeks/week-10/ENGCE124_W10_lecture.pdf) | [🧪 ใบงานที่ 9](weeks/week-10/ENGCE124_Lab09.pdf) |
-| 11 | 3.4 ฮีปและแถวคอยลำดับความสำคัญ | [📄 PDF](weeks/week-11/ENGCE124_W11_lecture.pdf) | [🧪 ใบงานที่ 10](weeks/week-11/ENGCE124_Lab10.pdf) |
-| 12 | 4.1 กราฟและการท่องกราฟ | [📄 PDF](weeks/week-12/ENGCE124_W12_lecture.pdf) | [🧪 ใบงานที่ 11](weeks/week-12/ENGCE124_Lab11.pdf) |
-| 13 | 4.2 เส้นทางที่สั้นที่สุดและต้นไม้แผ่ทั่วที่น้อยที่สุด | [📄 PDF](weeks/week-13/ENGCE124_W13_lecture.pdf) | [🧪 ใบงานที่ 12](weeks/week-13/ENGCE124_Lab12.pdf) |
-| 14 | 5.1 การจัดเรียงข้อมูลเบื้องต้น | [📄 PDF](weeks/week-14/ENGCE124_W14_lecture.pdf) | [🧪 ใบงานที่ 13](weeks/week-14/ENGCE124_Lab13.pdf) |
-| 15 | 5.2 การจัดเรียงข้อมูลขั้นสูง | [📄 PDF](weeks/week-15/ENGCE124_W15_lecture.pdf) | [🧪 ใบงานที่ 14](weeks/week-15/ENGCE124_Lab14.pdf) |
-| 16 | 6.1 การค้นหาข้อมูลและตารางแฮช | [📄 PDF](weeks/week-16/ENGCE124_W16_lecture.pdf) | [🧪 ใบงานที่ 15](weeks/week-16/ENGCE124_Lab15.pdf) |
-| 17 | **ทบทวนบทเรียน** | [📄 PDF](weeks/week-17/ENGCE124_W17_lecture.pdf) | — |
-| 18 | **สอบปลายภาค** | [📄 PDF](weeks/week-18/ENGCE124_W18_lecture.pdf) | — |
+| สัปดาห์ | หัวข้อ | เอกสารประกอบการสอน | อธิบายใบงาน | บันทึกผลใบงาน |
+|:---:|---|:---:|:---:|:---:|
+| 1 | 1.1 การแทนข้อมูลและแนวคิดโครงสร้างข้อมูล | [Lec⁠-⁠01](weeks/week-01/ENGCE124_W01_lecture.pdf) | [ใบ⁠งาน⁠-⁠1](weeks/week-01/ENGCE124_Lab01.pdf) | [Lab⁠-⁠1](weeks/week-01/ENGCE124_Lab01_record.docx) |
+| 2 | 1.2 การวิเคราะห์ขั้นตอนวิธี | [Lec⁠-⁠02](weeks/week-02/ENGCE124_W02_lecture.pdf) | [ใบ⁠งาน⁠-⁠2](weeks/week-02/ENGCE124_Lab02.pdf) | [Lab⁠-⁠2](weeks/week-02/ENGCE124_Lab02_record.docx) |
+| 3 | 2.1 แถวลำดับและการออกแบบข้อมูล | [Lec⁠-⁠03](weeks/week-03/ENGCE124_W03_lecture.pdf) | [ใบ⁠งาน⁠-⁠3](weeks/week-03/ENGCE124_Lab03.pdf) | [Lab⁠-⁠3](weeks/week-03/ENGCE124_Lab03_record.docx) |
+| 4 | 2.2 รายการโยง | [Lec⁠-⁠04](weeks/week-04/ENGCE124_W04_lecture.pdf) | [ใบ⁠งาน⁠-⁠4](weeks/week-04/ENGCE124_Lab04.pdf) | [Lab⁠-⁠4](weeks/week-04/ENGCE124_Lab04_record.docx) |
+| 5 | 2.3 กองซ้อน | [Lec⁠-⁠05](weeks/week-05/ENGCE124_W05_lecture.pdf) | [ใบ⁠งาน⁠-⁠5](weeks/week-05/ENGCE124_Lab05.pdf) | [Lab⁠-⁠5](weeks/week-05/ENGCE124_Lab05_record.docx) |
+| 6 | 2.4 แถวคอย | [Lec⁠-⁠06](weeks/week-06/ENGCE124_W06_lecture.pdf) | [ใบ⁠งาน⁠-⁠6](weeks/week-06/ENGCE124_Lab06.pdf) | [Lab⁠-⁠6](weeks/week-06/ENGCE124_Lab06_record.docx) |
+| 7 | 3.1 ต้นไม้และต้นไม้ทวิภาค | [Lec⁠-⁠07](weeks/week-07/ENGCE124_W07_lecture.pdf) | [ใบ⁠งาน⁠-⁠7](weeks/week-07/ENGCE124_Lab07.pdf) | [Lab⁠-⁠7](weeks/week-07/ENGCE124_Lab07_record.docx) |
+| 8 | 3.2 ต้นไม้ค้นหาแบบทวิภาค | [Lec⁠-⁠08](weeks/week-08/ENGCE124_W08_lecture.pdf) | [ใบ⁠งาน⁠-⁠8](weeks/week-08/ENGCE124_Lab08.pdf) | [Lab⁠-⁠8](weeks/week-08/ENGCE124_Lab08_record.docx) |
+| 9 | **สอบกลางภาค** | [Lec⁠-⁠09](weeks/week-09/ENGCE124_W09_lecture.pdf) | — | — |
+| 10 | 3.3 ต้นไม้สมดุล AVL และ B-Tree | [Lec⁠-⁠10](weeks/week-10/ENGCE124_W10_lecture.pdf) | [ใบ⁠งาน⁠-⁠9](weeks/week-10/ENGCE124_Lab09.pdf) | [Lab⁠-⁠9](weeks/week-10/ENGCE124_Lab09_record.docx) |
+| 11 | 3.4 ฮีปและแถวคอยลำดับความสำคัญ | [Lec⁠-⁠11](weeks/week-11/ENGCE124_W11_lecture.pdf) | [ใบ⁠งาน⁠-⁠10](weeks/week-11/ENGCE124_Lab10.pdf) | [Lab⁠-⁠10](weeks/week-11/ENGCE124_Lab10_record.docx) |
+| 12 | 4.1 กราฟและการท่องกราฟ | [Lec⁠-⁠12](weeks/week-12/ENGCE124_W12_lecture.pdf) | [ใบ⁠งาน⁠-⁠11](weeks/week-12/ENGCE124_Lab11.pdf) | [Lab⁠-⁠11](weeks/week-12/ENGCE124_Lab11_record.docx) |
+| 13 | 4.2 เส้นทางที่สั้นที่สุดและต้นไม้แผ่ทั่วที่น้อยที่สุด | [Lec⁠-⁠13](weeks/week-13/ENGCE124_W13_lecture.pdf) | [ใบ⁠งาน⁠-⁠12](weeks/week-13/ENGCE124_Lab12.pdf) | [Lab⁠-⁠12](weeks/week-13/ENGCE124_Lab12_record.docx) |
+| 14 | 5.1 การจัดเรียงข้อมูลเบื้องต้น | [Lec⁠-⁠14](weeks/week-14/ENGCE124_W14_lecture.pdf) | [ใบ⁠งาน⁠-⁠13](weeks/week-14/ENGCE124_Lab13.pdf) | [Lab⁠-⁠13](weeks/week-14/ENGCE124_Lab13_record.docx) |
+| 15 | 5.2 การจัดเรียงข้อมูลขั้นสูง | [Lec⁠-⁠15](weeks/week-15/ENGCE124_W15_lecture.pdf) | [ใบ⁠งาน⁠-⁠14](weeks/week-15/ENGCE124_Lab14.pdf) | [Lab⁠-⁠14](weeks/week-15/ENGCE124_Lab14_record.docx) |
+| 16 | 6.1 การค้นหาข้อมูลและตารางแฮช | [Lec⁠-⁠16](weeks/week-16/ENGCE124_W16_lecture.pdf) | [ใบ⁠งาน⁠-⁠15](weeks/week-16/ENGCE124_Lab15.pdf) | [Lab⁠-⁠15](weeks/week-16/ENGCE124_Lab15_record.docx) |
+| 17 | **ทบทวนบทเรียน** | [Lec⁠-⁠17](weeks/week-17/ENGCE124_W17_lecture.pdf) | — | — |
+| 18 | **สอบปลายภาค** | [Lec⁠-⁠18](weeks/week-18/ENGCE124_W18_lecture.pdf) | — | — |
 
 ## ตำราและเอกสารอ้างอิง
 
